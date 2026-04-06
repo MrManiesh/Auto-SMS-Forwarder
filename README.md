@@ -1,7 +1,7 @@
 # Auto SMS Forwarder 📲
 
 <p align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="150" alt="Auto SMS Forwarder Logo">
+  <img src="https://github.com/user-attachments/assets/02d7e132-b366-4b88-8086-0874f9d86592" width="150" alt="Auto SMS Forwarder Logo">
 </p>
 
 An open-source Android application built with Kotlin and Jetpack Compose that silently and automatically forwards incoming SMS messages to another phone number or email address. 
