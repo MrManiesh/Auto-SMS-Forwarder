@@ -16,6 +16,12 @@ Unlike other forwarders that require paid third-party API keys (like SendGrid or
 - **Local Logs**: Persists a history of your last 50 forwarded messages inside a local Room database so you can monitor success/failure statuses.
 - **Privacy First**: Completely open-source. No hidden tracking, no telemetry, and all data remains tightly secured on your local device.
 
+## Screenshots
+<img src="https://github.com/user-attachments/assets/c15a1d6a-ab63-469a-9961-de6b17c32e71" width="250"/>
+<img src="https://github.com/user-attachments/assets/5d849721-30fe-496f-a860-018fb9f9d30e" width="250"/>
+<img src="https://github.com/user-attachments/assets/3380d9c2-d87c-45e5-a736-f26d8b12d88d" width="250"/>
+<img src="https://github.com/user-attachments/assets/1118888f-6fe9-42cf-80db-41318e438343" width="250"/>
+
 ## 🛠 Tech Stack
 - **Language:** Kotlin
 - **UI Framework:** Jetpack Compose (Material 3)
